@@ -1,0 +1,6 @@
+{
+  "name": "install-node-4",
+  "engines": {
+    "install-node": "4"
+  }
+}
